@@ -5,13 +5,11 @@
 
 ADELANTE.COM slowly fills the screen with flickering Hs from the beginning to the end.
 
-ATRAS.COM does the same that the above mentioned program but in a reversed
+ATRAS.COM does the same that the above mentioned program but in a reversed fashion.
 
 ANIM.COM fades the screen in and out between black and white.
 
 ANIM2.COM fades the screen between multiple colors.
-
-fashion.
 
 CLEAR.COM just, well, clears the screen.
 
